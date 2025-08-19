@@ -27,3 +27,5 @@ app is reday ......
 
 <img width="1006" height="460" alt="Screenshot from 2025-08-20 02-07-22" src="https://github.com/user-attachments/assets/0ff06d6a-75c0-420f-a258-4ccef3a577ff" />
 
+<img width="1201" height="996" alt="Screenshot from 2025-08-20 02-06-50" src="https://github.com/user-attachments/assets/14bd4853-727a-4266-b278-d291a759ad31" />
+
